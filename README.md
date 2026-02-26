@@ -3,7 +3,9 @@ DDoS Detection using various ML models(Decision tree, Random Forest, Support Vec
 
 To use this dataset you might need an account of Kaggle or you can make changes in code for accessing dataset that is availabe in Datasets folder. In order to access dataset from Kaggle you might need to upload your API token(kaggle.json). In order to get your API token you can go to the Account tab of your user profile and select Create API Token.
 AI-Based DDoS Attack Detection System
-1️⃣ What is a DDoS Attack?
+
+
+1️) What is a DDoS Attack?
 
 A Distributed Denial of Service (DDoS) attack occurs when multiple compromised systems (botnets) simultaneously send a huge amount of traffic to a target server or network.
 
@@ -15,7 +17,7 @@ Legitimate users cannot access services
 
 Website or network goes down
 
-2️⃣ Why Traditional Detection Methods Fail
+2️) Why Traditional Detection Methods Fail
 
 Traditional detection techniques include:
 
@@ -35,7 +37,7 @@ Not suitable for large-scale traffic
 
  Hence, AI and Machine Learning are used.
 
-3️⃣ What is an AI-Based DDoS Detection System?
+3️) What is an AI-Based DDoS Detection System?
 
 An AI-Based DDoS Detection System analyzes network traffic using Machine Learning models to classify traffic as:
 
@@ -58,7 +60,7 @@ Attack Detection
       ↓
 Alert & Mitigation
 
-4️⃣ System Modules
+4️) System Modules
 🔹 1. Data Collection
 
 Traffic data is captured from the network, such as:
@@ -146,20 +148,20 @@ Traffic rate limiting is applied
 
 Firewall rules are updated
 
-5️⃣ Why AI-Based Detection is Better
+5️) Why AI-Based Detection is Better
 Traditional Methods	AI-Based Methods
 Static rules	Adaptive learning
 Low detection accuracy	High accuracy
 Detects known attacks only	Detects unknown attacks
 Manual updates	Automatic model updates
-6️⃣ Advantages
+6️) Advantages
 
 ✅ Real-time attack detection
 ✅ High accuracy and low false positives
 ✅ Scalable for large networks
 ✅ Automatically adapts to new attacks
 
-7️⃣ Applications
+7️) Applications
 
 Cloud computing environments
 
@@ -171,7 +173,7 @@ Government and defense networks
 
 IoT and smart networks
 
-8️⃣ Tools & Technologies (Example)
+8️) Tools & Technologies (Example)
 
 Programming Language: Python
 
@@ -181,7 +183,7 @@ Dataset: CICIDS2017
 
 Operating System: Linux / Kali Linux
 
-9️⃣ Future Enhancements
+9️) Future Enhancements
 
 Deep Learning models (CNN, LSTM)
 
